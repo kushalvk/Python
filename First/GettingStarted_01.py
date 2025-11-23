@@ -1,4 +1,4 @@
-# All opration are perform in IDLE Shell
+# All operation are perform in IDLE Shell
 
 
 # 4 + 3
