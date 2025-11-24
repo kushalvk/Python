@@ -1,3 +1,5 @@
+# All operation are perform in IDLE Shell
+
 # Bitwise Operator
 
 # 1. Complement(~)
