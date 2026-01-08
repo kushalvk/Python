@@ -63,6 +63,8 @@ python filename.py
 python manage.py runserver
 ```
 
+---
+
 ## 🧠 Learning Status
 
 This repository is actively maintained as I continue learning new concepts and building more projects.
